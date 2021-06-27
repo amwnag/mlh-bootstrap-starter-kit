@@ -9,7 +9,7 @@ need ot uncompress (open) it. You can then open the folder in any code editor, i
 There are lots of example files in the repo. Feel free to change or remove them!
 
 ## Useful links to get started!
-👀 See a preview of the website: https://amwang3.github.io/mlh-bootstrap-starter-kit/
+👀 See a preview of the website: https://amwnag.github.io/mlh-bootstrap-starter-kit/
 
 💻 Check out Bootstrap's documentation: https://getbootstrap.com/
 
